@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**This is Bold**  
+*This is Italic*  
+**_This is Bold Italic_**  
+@trokro :+1: This PR looks great - it's ready to merge! :shipit:  
+:smile:  
