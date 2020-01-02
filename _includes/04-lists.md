@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+### Love List
+1. Cowboys
+2. Cowboys
+3. Cowboys
+
+### Hate List
+- Eagles
+- Giants
+- Redskins
